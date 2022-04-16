@@ -22,19 +22,19 @@
     "url": "https://omnisaservicios.com/",
     "icon": "https://favicons.githubusercontent.com/omnisaservicios.com",
     "slug": "omnisa",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1898,
-    "timeDay": 2037,
-    "timeWeek": 1898,
-    "timeMonth": 1898,
-    "timeYear": 1898,
+    "status": "up",
+    "uptime": "97.92%",
+    "uptimeDay": "97.70%",
+    "uptimeWeek": "97.92%",
+    "uptimeMonth": "97.92%",
+    "uptimeYear": "97.92%",
+    "time": 1871,
+    "timeDay": 1995,
+    "timeWeek": 1871,
+    "timeMonth": 1871,
+    "timeYear": 1871,
     "dailyMinutesDown": {
-      "2022-04-16": 0
+      "2022-04-16": 33
     }
   },
   {
