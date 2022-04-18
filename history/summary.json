@@ -22,19 +22,19 @@
     "url": "https://omnisaservicios.com/",
     "icon": "https://favicons.githubusercontent.com/omnisaservicios.com",
     "slug": "omnisa",
-    "status": "up",
-    "uptime": "94.22%",
-    "uptimeDay": "90.28%",
-    "uptimeWeek": "94.22%",
-    "uptimeMonth": "94.22%",
-    "uptimeYear": "94.22%",
+    "status": "down",
+    "uptime": "94.38%",
+    "uptimeDay": "90.69%",
+    "uptimeWeek": "94.38%",
+    "uptimeMonth": "94.38%",
+    "uptimeYear": "94.38%",
     "time": 2048,
     "timeDay": 2077,
     "timeWeek": 2048,
     "timeMonth": 2048,
     "timeYear": 2048,
     "dailyMinutesDown": {
-      "2022-04-18": 102,
+      "2022-04-18": 96,
       "2022-04-17": 101,
       "2022-04-16": 53
     }
@@ -62,7 +62,7 @@
     "url": "https://beverlyhillssa.com/",
     "icon": "https://favicons.githubusercontent.com/beverlyhillssa.com",
     "slug": "beverly",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -73,7 +73,9 @@
     "timeWeek": 1737,
     "timeMonth": 1737,
     "timeYear": 1737,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-18": 0
+    }
   },
   {
     "name": "DKP",
