@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/omnisaservicios.com",
     "slug": "omnisa",
     "status": "down",
-    "uptime": "47.31%",
+    "uptime": "47.16%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "47.31%",
-    "uptimeMonth": "47.31%",
-    "uptimeYear": "47.31%",
+    "uptimeWeek": "47.16%",
+    "uptimeMonth": "47.16%",
+    "uptimeYear": "47.16%",
     "time": 2048,
     "timeDay": 0,
     "timeWeek": 2048,
     "timeMonth": 2048,
     "timeYear": 2048,
     "dailyMinutesDown": {
-      "2022-04-21": 1022,
+      "2022-04-21": 1050,
       "2022-04-20": 1440,
       "2022-04-19": 1440,
       "2022-04-18": 626,
@@ -68,18 +68,18 @@
     "icon": "https://favicons.githubusercontent.com/beverlyhillssa.com",
     "slug": "beverly",
     "status": "down",
-    "uptime": "98.13%",
-    "uptimeDay": "93.77%",
-    "uptimeWeek": "98.13%",
-    "uptimeMonth": "98.13%",
-    "uptimeYear": "98.13%",
+    "uptime": "97.82%",
+    "uptimeDay": "91.81%",
+    "uptimeWeek": "97.82%",
+    "uptimeMonth": "97.82%",
+    "uptimeYear": "97.82%",
     "time": 1869,
     "timeDay": 2381,
     "timeWeek": 1869,
     "timeMonth": 1869,
     "timeYear": 1869,
     "dailyMinutesDown": {
-      "2022-04-21": 90,
+      "2022-04-21": 118,
       "2022-04-18": 76
     }
   },
@@ -88,7 +88,7 @@
     "url": "https://dkplatam.com/",
     "icon": "https://favicons.githubusercontent.com/dkplatam.com",
     "slug": "dkp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -99,6 +99,8 @@
     "timeWeek": 659,
     "timeMonth": 659,
     "timeYear": 659,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-21": 0
+    }
   }
 ]
