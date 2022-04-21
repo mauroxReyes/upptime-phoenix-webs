@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/omnisaservicios.com",
     "slug": "omnisa",
     "status": "down",
-    "uptime": "47.79%",
+    "uptime": "47.48%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "47.79%",
-    "uptimeMonth": "47.79%",
-    "uptimeYear": "47.79%",
+    "uptimeWeek": "47.48%",
+    "uptimeMonth": "47.48%",
+    "uptimeYear": "47.48%",
     "time": 2048,
     "timeDay": 0,
     "timeWeek": 2048,
     "timeMonth": 2048,
     "timeYear": 2048,
     "dailyMinutesDown": {
-      "2022-04-21": 932,
+      "2022-04-21": 989,
       "2022-04-20": 1440,
       "2022-04-19": 1440,
       "2022-04-18": 626,
@@ -47,7 +47,7 @@
     "url": "https://rticcoolers.net/",
     "icon": "https://favicons.githubusercontent.com/rticcoolers.net",
     "slug": "artic",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -58,7 +58,9 @@
     "timeWeek": 1052,
     "timeMonth": 1052,
     "timeYear": 1052,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-21": 0
+    }
   },
   {
     "name": "Beverly",
@@ -66,18 +68,18 @@
     "icon": "https://favicons.githubusercontent.com/beverlyhillssa.com",
     "slug": "beverly",
     "status": "down",
-    "uptime": "99.13%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.13%",
-    "uptimeMonth": "99.13%",
-    "uptimeYear": "99.13%",
+    "uptime": "98.49%",
+    "uptimeDay": "96.02%",
+    "uptimeWeek": "98.49%",
+    "uptimeMonth": "98.49%",
+    "uptimeYear": "98.49%",
     "time": 1869,
     "timeDay": 2381,
     "timeWeek": 1869,
     "timeMonth": 1869,
     "timeYear": 1869,
     "dailyMinutesDown": {
-      "2022-04-21": 0,
+      "2022-04-21": 57,
       "2022-04-18": 76
     }
   },
